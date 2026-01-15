@@ -1,0 +1,30 @@
+{
+  "query": "Samzung Galaxy S21",
+  "results": [
+    {
+      "product_id": 22,
+      "product_name": "Samsung Galaxy S21",
+      "score": 0.93
+    },
+    {
+      "product_id": 18,
+      "product_name": "Samzung Galaxy S21",
+      "score": 0.89
+    },
+    {
+      "product_id": 35,
+      "product_name": "Samsung Galaxy S21 Ultra",
+      "score": 0.74
+    },
+    {
+      "product_id": 40,
+      "product_name": "Samsung Galaxy S22",
+      "score": 0.52
+    },
+    {
+      "product_id": 11,
+      "product_name": "Galaxy S21 Phone Case",
+      "score": 0.41
+    }
+  ]
+}
