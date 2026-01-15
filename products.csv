@@ -1,0 +1,501 @@
+product_id,product_name
+1,Zara Hoodie
+2,Asus Galaxy S21
+3,Dell IdeaPad Slim 3
+4,Organic India Basmati Rice 10kg
+5,Lenovo iPhone 13
+6,Amul Milk Powder 1kg
+7,Fortune Toor Dal 2kg
+8,Roadster Men T-Shirt
+9,Amul Wheat Flour 5kg
+10,Aashirvaad Toor Dal 2kg
+11,Tommy Hilfiger Leather Jacket
+12,Fortune Salt 1kg
+13,Sony Nord CE 3
+14,Samsung Galaxy S21
+15,Wrangler Cotton Saree
+16,Fortun Sunflower Oil 1L
+17,Nike Air Max Pro
+18,Puma Leather Jacket
+19,Tommy Hilfiger Men T-Shirt
+20,OnePlus MacBook Air M2
+21,Apple iPhone 14 Pro
+22,Patanjali Basmati Rice 10kg
+23,Organic India Wheat Flour 5kg
+24,Nestle Basmati Rice 10kg
+25,Nike Men T-Shirt
+26,Samsung Nord CE 3
+27,Fortune Milk Powder 1kg
+28,Samzung MacBook Air M2
+29,Levi's Men T-Shirt
+30,Nestle Salt 1kg
+31,Britannia Wheat Flour 5kg
+32,UCB Slim Fit Jeans
+33,Dabur Honey 500g
+34,Adidas Hoodie
+35,Nokia Xperia 5
+36,Aashirvaad Butter 200g
+37,Aashirvaad Sunflower Oil 1L
+38,Dell ThinkPad X1
+39,Asus IdeaPad Slim 3
+40,Nik Air Max
+41,HP Xperia 5
+42,Samzung ThinkPad X1
+43,Tata Honey 500g
+44,Zara Sports Shorts
+45,UCB Sports Shorts
+46,Tata Sunflower Oil 1L
+47,Adidas Leather Jacket
+48,Zara Men T-Shirt
+49,Realme iPhone 13
+50,HRX Hoodie
+51,Tata Milk Powder 1kg
+52,Levi's Denim Jacket
+53,Apple Galaxy S21
+54,Aashirvaad Sunflower Oil 1L
+55,Britannia Salt 1kg
+56,Tommy Hilfiger Running Shoes
+57,Redmi iPhone 14
+58,Lenovo Galaxy S23
+59,HP Galaxy S22
+60,Dabur Wheat Flour 5kg
+61,Nike Men T-Shirt
+62,Dell Inspiron 15
+63,Samsung Galaxy S21
+64,Dell Xperia 5
+65,Britannia Oats 1kg
+66,HRX Casual Sneakers
+67,Amul Sugar 1kg
+68,Nestle Sunflower Oil 1L
+69,Fortune Sunflower Oil 1L
+70,Lenovo Galaxy S21 Ultra
+71,Samsung Inspiron 15
+72,HRX Track Pants
+73,Samsung Inspiron 15
+74,Allen Solly Denim Jacket
+75,Dell Nord CE 3
+76,Adidas Slim Fit Jeans
+77,Samzung Galaxy S21 Ultra
+78,Adidas Hoodie
+79,Wrangler Men T-Shirt
+80,OnePlus Nord CE 3
+81,Nokia ThinkPad X1
+82,Tata Oats 1kg
+83,Redmi Galaxy S23
+84,Tommy Hilfiger Women Kurti
+85,Asus ROG Strix
+86,Patanjali Salt 1kg
+87,Organic India Salt 1kg
+88,Aashirvaad Salt 1kg
+89,Samzung iPhone 13
+90,Tommy Hilfiger Running Shoes
+91,Roadster Leather Jacket
+92,OnePlus Galaxy S21
+93,UCB Cotton Saree
+94,Adidas Leather Jacket
+95,Dell Bluetooth Speaker
+96,Patanjali Butter 200g
+97,Amul Sunflower Oil 1L
+98,HP Noise Cancelling Headphones
+99,Apple Wireless Earbuds
+100,Boat Wireless Earbuds
+101,Amul Wheat Flour 5kg
+102,Wrangler Sports Shorts
+103,Levi's Men T-Shirt
+104,Dabur Toor Dal 2kg
+105,Allen Solly Women Kurti
+106,HP Bluetooth Speaker
+107,Roadster Cotton Saree
+108,HP ROG Strix
+109,Fortune Basmati Rice 10kg
+110,Fortune Honey 500g
+111,Wrangler Denim Jacket
+112,Tommy Hilfiger Men T-Shirt
+113,UCB Cotton Saree
+114,Tommy Hilfiger Formal Shirt
+115,Nokia MacBook Air M2
+116,Sony Pavilion 14
+117,Puma Slim Fit Jeans
+118,UCB Men T-Shirt
+119,India Gate Green Tea 100g
+120,Nestle Basmati Rice 10kg
+121,HP Nord CE 3
+122,OnePlus IdeaPad Slim 3
+123,Allen Solly Sports Shorts
+124,Fortune Green Tea 100g
+125,Dell MacBook Air M2
+126,HRX Leather Jacket
+127,Britannia Salt 1kg
+128,Asus Galaxy S21
+129,Puma Track Pants
+130,Aashirvaad Wheat Flour 5kg
+131,Samzung Inspiron 15
+132,Allen Solly Track Pants
+133,Wrangler Denim Jacket
+134,HRX Slim Fit Jeans
+135,Samsung IdeaPad Slim 3
+136,Zara Formal Shirt
+137,Fortune Toor Dal 2kg
+138,Nike Women Kurti
+139,Adidas Casual Sneakers
+140,Samsung MacBook Air M2
+141,Nestle Oats 1kg
+142,Lenovo ROG Strix
+143,Amul Toor Dal 2kg
+144,Samzung ThinkPad X1
+145,Boat Nord CE 3
+146,Amul Sugar 1kg
+147,Redmi Nord CE 3
+148,Boat Smart Watch
+149,India Gate Sunflower Oil 1L
+150,Nestle Oats 1kg
+151,Amul Oats 1kg
+152,Dell MacBook Pro M3
+153,Amul Milk Powder 1kg
+154,Samsung MacBook Air M2
+155,Levi's Men T-Shirt
+156,Apple Smart Watch
+157,UCB Slim Fit Jeans
+158,Roadster Slim Fit Jeans
+159,Roadster Formal Shirt
+160,Redmi Pavilion 14
+161,Nike Hoodie
+162,Tata Oats 1kg
+163,Adidas Sports Shorts
+164,Samsung Galaxy S21 Ultra
+165,Fortune Oats 1kg
+166,Asus Inspiron 15
+167,Zara Casual Sneakers
+168,Nokia Nord CE 3
+169,Dabur Honey 500g
+170,Adidas Men T-Shirt
+171,Tata Wheat Flour 5kg
+172,Nestle Honey 500g
+173,Levi's Denim Jacket
+174,Nokia Wireless Earbuds
+175,Adidas Men T-Shirt
+176,OnePlus iPhone 14
+177,Dell Galaxy S21
+178,Samzung Noise Cancelling Headphones
+179,Organic India Sugar 1kg
+180,OnePlus Noise Cancelling Headphones
+181,Zara Formal Shirt
+182,HP Pavilion 14
+183,Wrangler Running Shoes
+184,UCB Women Kurti
+185,Dabur Honey 500g
+186,Zara Slim Fit Jeans
+187,Zara Denim Jacket
+188,Dabur Basmati Rice 10kg
+189,Boat ROG Strix
+190,Lenovo iPhone 14 Pro
+191,Fortune Oats 1kg
+192,UCB Slim Fit Jeans
+193,Apple Noise Cancelling Headphones
+194,Samsung ROG Strix
+195,Nokia iPhone 14
+196,Boat Smart Watch
+197,India Gate Sunflower Oil 1L
+198,Roadster Men T-Shirt
+199,Fortune Honey 500g
+200,Aashirvaad Milk Powder 1kg
+201,Patanjali Butter 200g
+202,Allen Solly Leather Jacket
+203,Samzung iPhone 13
+204,Wrangler Men T-Shirt
+205,Puma Track Pants
+206,India Gate Sugar 1kg
+207,Allen Solly Slim Fit Jeans
+208,Fortune Sunflower Oil 1L
+209,Aashirvaad Milk Powder 1kg
+210,Nestle Sugar 1kg
+211,Asus ROG Strix
+212,HRX Casual Sneakers
+213,Allen Solly Casual Sneakers
+214,UCB Hoodie
+215,Allen Solly Casual Sneakers
+216,Levi's Women Kurti
+217,Realme Inspiron 15
+218,Redmi Galaxy S23
+219,Sony Inspiron 15
+220,Puma Cotton Saree
+221,Tata Salt 1kg
+222,Nike Sports Shorts
+223,Tata Oats 1kg
+224,Tata Milk Powder 1kg
+225,Fortune Milk Powder 1kg
+226,Dell Galaxy S21 Ultra
+227,Realme Nord CE 3
+228,Nestle Salt 1kg
+229,Amul Honey 500g
+230,Sony Wireless Earbuds
+231,Britannia Salt 1kg
+232,Puma Slim Fit Jeans
+233,Redmi ROG Strix
+234,Adidas Leather Jacket
+235,UCB Running Shoes
+236,H&M Sports Shorts
+237,Britannia Honey 500g
+238,Britannia Salt 1kg
+239,Britannia Honey 500g
+240,Aashirvaad Honey 500g
+241,Roadster Leather Jacket
+242,Allen Solly Women Kurti
+243,Dell MacBook Pro M3
+244,India Gate Honey 500g
+245,HP iPhone 14 Pro
+246,Boat IdeaPad Slim 3
+247,Patanjali Toor Dal 2kg
+248,Nokia Inspiron 15
+249,Nestle Salt 1kg
+250,Tommy Hilfiger Cotton Saree
+251,Nokia MacBook Pro M3
+252,Britannia Oats 1kg
+253,HP Noise Cancelling Headphones
+254,India Gate Oats 1kg
+255,Britannia Sugar 1kg
+256,Zara Men T-Shirt
+257,Apple iPhone 14
+258,Sony Galaxy S22
+259,Zara Sports Shorts
+260,Puma Formal Shirt
+261,Nike Cotton Saree
+262,Zara Running Shoes
+263,Allen Solly Hoodie
+264,Tata Sunflower Oil 1L
+265,UCB Formal Shirt
+266,Lenovo Galaxy S22
+267,Realme Galaxy S21 Ultra
+268,Fortune Oats 1kg
+269,Patanjali Oats 1kg
+270,Aashirvaad Sunflower Oil 1L
+271,Asus Inspiron 15
+272,Aashirvaad Milk Powder 1kg
+273,HRX Women Kurti
+274,Britannia Butter 200g
+275,Nestle Oats 1kg
+276,Apple iPhone 14 Pro Max
+277,Redmi IdeaPad Slim 3
+278,Sony Galaxy S21 Ultra
+279,HP Galaxy S21
+280,Adidas Casual Sneakers
+281,India Gate Milk Powder 1kg
+282,Nestle Toor Dal 2kg
+283,Allen Solly Hoodie
+284,Zara Formal Shirt
+285,OnePlus Xperia 5
+286,Samzung MacBook Pro M3
+287,Roadster Women Kurti
+288,Lenovo MacBook Pro M3
+289,HRX Track Pants
+290,Roadster Formal Shirt
+291,Roadster Track Pants
+292,Organic India Sugar 1kg
+293,Puma Track Pants
+294,Roadster Hoodie
+295,Dabur Wheat Flour 5kg
+296,Tata Basmati Rice 10kg
+297,Nike Denim Jacket
+298,Samzung Galaxy S21
+299,UCB Hoodie
+300,Patanjali Sunflower Oil 1L
+301,Apple ROG Strix
+302,Amul Toor Dal 2kg
+303,Nokia Wireless Earbuds
+304,UCB Running Shoes
+305,Samsung MacBook Air M2
+306,Amul Milk Powder 1kg
+307,Samzung MacBook Pro M3
+308,Tata Basmati Rice 10kg
+309,Boat Galaxy S23
+310,Levi's Cotton Saree
+311,Organic India Green Tea 100g
+312,H&M Men T-Shirt
+313,Apple Bluetooth Speaker
+314,Nokia Wireless Earbuds
+315,Dell Galaxy S21
+316,India Gate Butter 200g
+317,Asus Xperia 5
+318,Nike Sports Shorts
+319,Tommy Hilfiger Formal Shirt
+320,HRX Cotton Saree
+321,Dabur Butter 200g
+322,Tata Toor Dal 2kg
+323,Dabur Honey 500g
+324,Levi's Slim Fit Jeans
+325,Asus MacBook Air M2
+326,Dabur Green Tea 100g
+327,OnePlus iPhone 13
+328,Fortune Sunflower Oil 1L
+329,Nike Sports Shorts
+330,Amul Oats 1kg
+331,Sony Galaxy S21 Ultra
+332,Amul Sunflower Oil 1L
+333,Levi's Cotton Saree
+334,India Gate Basmati Rice 10kg
+335,UCB Track Pants
+336,HP ThinkPad X1
+337,Puma Women Kurti
+338,UCB Slim Fit Jeans
+339,Levi's Running Shoes
+340,Puma Men T-Shirt
+341,Nokia Wireless Earbuds
+342,Tata Sugar 1kg
+343,Redmi Inspiron 15
+344,Realme Galaxy S21 Ultra
+345,Allen Solly Hoodie
+346,Adidas Denim Jacket
+347,India Gate Wheat Flour 5kg
+348,Roadster Women Kurti
+349,Nike Men T-Shirt
+350,Tommy Hilfiger Casual Sneakers
+351,Nike Track Pants
+352,Amul Salt 1kg
+353,Amool Butter 200g
+354,India Gate Sugar 1kg
+355,Dabur Butter 200g
+356,Patanjali Oats 1kg
+357,Organic India Honey 500g
+358,Samsung IdeaPad Slim 3
+359,Samzung Noise Cancelling Headphones
+360,Aashirvaad Sugar 1kg
+361,Realme Galaxy S21
+362,Zara Hoodie
+363,Samzung iPhone 14
+364,Adidas Men T-Shirt
+365,Nestle Honey 500g
+366,Amul Wheat Flour 5kg
+367,Nestle Salt 1kg
+368,India Gate Sunflower Oil 1L
+369,Apple Bluetooth Speaker
+370,HP MacBook Air M2
+371,Puma Formal Shirt
+372,Nestle Butter 200g
+373,Zara Denim Jacket
+374,Amul Oats 1kg
+375,Boat Galaxy S22
+376,Patanjali Butter 200g
+377,HRX Hoodie
+378,Adidas Casual Sneakers
+379,Roadster Slim Fit Jeans
+380,Dell MacBook Pro M3
+381,Tata Toor Dal 2kg
+382,Britannia Milk Powder 1kg
+383,Samzung iPhone 13
+384,Sony Wireless Earbuds
+385,Roadster Hoodie
+386,Samzung Nord CE 3
+387,Puma Leather Jacket
+388,Dell Inspiron 15
+389,HP Pavillion 14
+390,Nike Men T-Shirt
+391,Fortune Sunflower Oil 1L
+392,Britannia Milk Powder 1kg
+393,Zara Women Kurti
+394,Fortune Toor Dal 2kg
+395,Levi's Denim Jacket
+396,Tommy Hilfiger Running Shoes
+397,Roadster Leather Jacket
+398,Apple Bluetooth Speaker
+399,India Gate Salt 1kg
+400,Tata Green Tea 100g
+401,Patanjali Green Tea 100g
+402,Britannia Honey 500g
+403,Boat Wireless Earbuds
+404,Boat Pavilion 14
+405,Realme Noise Cancelling Headphones
+406,Nestle Basmati Rice 10kg
+407,Tata Butter 200g
+408,H&M Track Pants
+409,Boat Pavilion 14
+410,Amul Basmati Rice 10kg
+411,Realme MacBook Air M2
+412,Nestle Green Tea 100g
+413,Nokia IdeaPad Slim 3
+414,Dabur Basmati Rice 10kg
+415,Wrangler Track Pants
+416,Organic India Butter 200g
+417,Roadster Women Kurti
+418,Amul Green Tea 100g
+419,Allen Solly Sports Shorts
+420,Redmi Inspiron 15
+421,Organic India Sugar 1kg
+422,Fortune Honey 500g
+423,Tata Sugar 1kg
+424,UCB Slim Fit Jeans
+425,Levi's Track Pants
+426,Samzung Inspiron 15
+427,Apple ROG Strix
+428,Roadster Cotton Saree
+429,Amul Basmati Rice 10kg
+430,Amul Butter 250g
+431,Dabur Wheat Flour 5kg
+432,Organic India Salt 1kg
+433,Boat Xperia 5
+434,Lenovo IdeaPad Slim 3
+435,Dabur Wheat Flour 5kg
+436,Apple IdeaPad Slim 3
+437,Zara Running Shoes
+438,Organic India Sugar 1kg
+439,Tata Wheat Flour 5kg
+440,Lenovo Pavilion 14
+441,Nike Air Max
+442,Redmi MacBook Pro M3
+443,Nokia Nord CE 3
+444,Amul Butter 200g
+445,Nokia iPhone 13
+446,Britannia Butter 200g
+447,Aashirvaad Toor Dal 2kg
+448,Adidas Formal Shirt
+449,Puma Leather Jacket
+450,Tommy Hilfiger Women Kurti
+451,Redmi Smart Watch
+452,Adidas Slim Fit Jeans
+453,Amul Toor Dal 2kg
+454,Aashirvaad Basmati Rice 10kg
+455,India Gate Sugar 1kg
+456,Britannia Basmati Rice 10kg
+457,Roadster Women Kurti
+458,Organic India Salt 1kg
+459,Tata Sugar 1kg
+460,Organic India Basmati Rice 10kg
+461,Tommy Hilfiger Running Shoes
+462,India Gate Green Tea 100g
+463,India Gate Milk Powder 1kg
+464,India Gate Honey 500g
+465,Zara Track Pants
+466,Aashirvaad Wheat Flour 5kg
+467,Patanjali Butter 200g
+468,HP iPhone 14 Pro
+469,India Gate Honey 500g
+470,Organic India Milk Powder 1kg
+471,Puma Denim Jacket
+472,Dabur Butter 200g
+473,Nike Track Pants
+474,Allen Solly Track Pants
+475,Sony Inspiron 15
+476,Redmi Galaxy S23
+477,HRX Women Kurti
+478,Dell Wireless Earbuds
+479,Allen Solly Casual Sneakers
+480,Dell Galaxy S23
+481,Nestle Oats 1kg
+482,Redmi Galaxy S21
+483,Adidas Cotton Saree
+484,Sony Galaxy S21
+485,Roadster Sports Shorts
+486,Realme Bluetooth Speaker
+487,India Gate Honey 500g
+488,Patanjali Basmati Rice 10kg
+489,Dell ROG Strix
+490,Samzung Wireless Earbuds
+491,HRX Running Shoes
+492,Samzung Galaxy S21
+493,Wrangler Formal Shirt
+494,Organic India Sunflower Oil 1L
+495,Puma Hoodie
+496,Levi's Sports Shorts
+497,Realme ROG Strix
+498,Realme Galaxy S21 Ultra
+499,UCB Leather Jacket
+500,Aashirvaad Butter 200g
